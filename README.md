@@ -7,12 +7,12 @@
 🎓 &nbsp;I'm currently studying Computer Science and Engineering at the Indian Institute of Information Technology, Kottayam.\
 🌱 &nbsp;I'm on track for learning more about Computer Graphics, Web Graphics and 3D rendering.\
 ✍️ &nbsp;In my free time, I pursue Graphic and UI/UX Designing as hobbies/side hustles.\
-✍️ &nbsp;Competitive Programming is also one pf my hobby I and like to solve challenging problems.\
+✍️ &nbsp;Competitive Programming is also one of my hobby I and like to solve challenging problems.\
 💬 &nbsp;Feel free to reach out to me for any freelance work, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at prajjwaljogdand@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://) for more details about me. I'm open to feedback and suggestions!
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/prajjwaljogdand/prajjwaljogdand/master/assets/art-1.png" width="200" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/prajjwaljogdand/prajjwaljogdand/master/assets/art-1.png" width="280" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
