@@ -12,7 +12,7 @@
 ✉️ &nbsp;You can shoot me an email at prajjwaljogdand@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://) for more details about me. I'm open to feedback and suggestions!
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/prajjwaljogdand/prajjwaljogdand/master/assets/art.png" width="200" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/prajjwaljogdand/prajjwaljogdand/master/assets/art-1.png" width="200" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
