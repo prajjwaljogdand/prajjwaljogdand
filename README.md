@@ -5,7 +5,7 @@
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and create immersive experience for users. \
 🎓 &nbsp;I'm currently studying Computer Science and Engineering at the Indian Institute of Information Technology, Kottayam.\
-🌱 &nbsp;I'm on track for learning more about Computer Graphics, Web Graphics and 3D rendering.\
+🌱 &nbsp;I'm on track for learning more about WEB3 , Computer Graphics, Web Graphics and 3D rendering.\
 ✍️ &nbsp;In my free time, I pursue Graphic and UI/UX Designing as hobbies/side hustles.\
 ✍️ &nbsp;Competitive Programming is also one of my hobby I and like to solve challenging problems.\
 💬 &nbsp;Feel free to reach out to me for any freelance work, or just for some interesting discussion.\
