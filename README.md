@@ -3,11 +3,9 @@
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Prajjwal</h2>
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and create immersive experience for users. \
-🎓 &nbsp;I'm currently studying Computer Science and Engineering at the Indian Institute of Information Technology, Kottayam.\
+💡 &nbsp;I’m passionate about combining design and technology to create impactful and optimized solutions that drive project success. \
 🌱 &nbsp;I'm on track for learning more about WEB3 , Computer Graphics, Web Graphics and 3D rendering.\
 ✍️ &nbsp;In my free time, I pursue Graphic and UI/UX Designing as hobbies/side hustles.\
-✍️ &nbsp;Competitive Programming is also one of my hobby I and like to solve challenging problems.\
 💬 &nbsp;Feel free to reach out to me for any freelance work, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at prajjwaljogdand@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://) for more details about me. I'm open to feedback and suggestions!
