@@ -3,12 +3,12 @@
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Prajjwal</h2>
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I’m passionate about combining design and technology to create impactful and optimized solutions that drive project success. \
-🌱 &nbsp;I'm on track for learning more about WEB3 , Computer Graphics, Web Graphics and 3D rendering.\
-✍️ &nbsp;In my free time, I pursue Graphic and UI/UX Designing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for any freelance work, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at prajjwaljogdand@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://) for more details about me. I'm open to feedback and suggestions!
+💡 &nbsp;I’m Passionate about blending design and technology to create impactful solutions. \
+🌱 &nbsp;Exploring Web3, Blockchain and Defi systems. \
+✍️ &nbsp;Enjoy Graphic Design and UI/UX as side hustles. \
+💬 &nbsp;Open to freelance work or intriguing discussions. \
+✉️ &nbsp;Reach me at prajjwaljogdand@gmail.com ! I'll try to respond as soon as I can.\
+📄 &nbsp;Check out my Résumé for more details. Feedback welcome!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/prajjwaljogdand/prajjwaljogdand/master/assets/art-1.png" width="280" align="right"/>
 
